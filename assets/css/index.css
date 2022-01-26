@@ -118,9 +118,6 @@ nav ul li a:hover {
     background-color: rgba(255, 255, 255, 0.986);
   }
 
-  .menu li {
-    border-bottom: 1px solid grey;
-  }
   .toggle-btn {
     display: block;
   }
