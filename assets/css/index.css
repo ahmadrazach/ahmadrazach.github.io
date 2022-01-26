@@ -117,13 +117,18 @@ nav ul li a:hover {
     padding: 40px 0;
     background-color: rgba(255, 255, 255, 0.986);
   }
+
   .menu li {
+    border-bottom: 1px solid grey;
   }
   .toggle-btn {
     display: block;
   }
-  .toggle-btn svg {
+  .toggle-btn i {
     color: var(--main-bg-color);
+  }
+  nav {
+    width: 85%;
   }
 }
 
