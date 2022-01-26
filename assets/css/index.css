@@ -107,7 +107,7 @@ nav ul li a:hover {
   .menu {
     position: absolute;
     background-color: var(--neutral-light-grayish-blue);
-    width: 60%;
+    width: 80%;
     border-radius: 5px;
     box-shadow: rgba(0, 0, 0, 0.596) 0px 22px 70px 4px;
     display: flex;
@@ -116,6 +116,8 @@ nav ul li a:hover {
     margin-top: 400px;
     padding: 40px 0;
     background-color: rgba(255, 255, 255, 0.986);
+  }
+  .menu li {
   }
   .toggle-btn {
     display: block;
